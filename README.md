@@ -20,3 +20,5 @@ The parameterized layers utilize the entire Hilbert space correspoding to $2^n$ 
 #Architecture
 
 #Results
+video
+https://drive.google.com/file/d/10QQlWQcv1cXID7X9qov9vV3Ch125X5nN/view?usp=drive_link
