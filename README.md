@@ -17,12 +17,12 @@ After taking measurement probabilities over all possible quantum states, we util
 
 The parameterized layers utilize the entire Hilbert space correspoding to $2^n$ (where $n$ is the number of qubits) quantum states. By extracting the probabilities over all possible quantum states of the system (instead of simply taking expectation values), we are able to take full advantage of the rich representation offered by the Hilbert space. For normalization and computational purposes, the number of qubits used for the encoder is $n_{enc}=log_2(K)$ (where $K$ represents the desired number of topics) and the number of qubits used for the decoder is $n_{dec}=log_2(V)$ (where $V$ represents the total vocabulary size of the dataset). 
 
-#Architecture
+# Architecture
 ![arch](https://github.com/user-attachments/assets/6dbf4627-586a-4ecf-aca1-4f60f05ee07f)
 
 
-#Results
+# Results
 ![image](https://github.com/user-attachments/assets/82b2f1be-d0d6-4258-8b3e-c365c6e090c2)
 
-video
+# video
 https://drive.google.com/file/d/10QQlWQcv1cXID7X9qov9vV3Ch125X5n/view?usp=drive_link
